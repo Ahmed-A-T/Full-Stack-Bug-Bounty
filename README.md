@@ -67,7 +67,171 @@
 ## How to Use This Repository  
 1. **Track Progress**: Fork this repo and check off completed topics.  
 2. **Build Projects**: Add your code to the repository (e.g., Todo app, e-commerce site).  
-3. **Share Wins**: Document your earnings and bug submissions in a `progress.md` file.  
+3. **Share Wins**: Document your earnings and bug submissions in a `progress.md` file.
+
+
+
+---
+
+
+# Weekly Hybrid Learning Plan: Full-Stack + Bug Bounty  
+**Goal**: Earn money while learning by combining web development and security skills.  
+
+---
+
+## **Phase 1: Foundations (Weeks 1–4)**  
+### **Week 1: Web Basics**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | HTML/CSS, Git Basics                    | HTTP Protocol, Cookies, Headers         | **Freelance**: Fix HTML/CSS issues ($15–$30/hour). |  
+| **Tasks**               | Build a static portfolio site.          | Complete PortSwigger’s "HTTP Basics" labs. | Deploy portfolio on GitHub Pages.           |  
+| **Resources**           | [FreeCodeCamp HTML/CSS](https://freecodecamp.org/) | [PortSwigger Academy](https://portswigger.net/web-security) | [Fiverr](https://www.fiverr.com/) for gigs. |  
+
+---
+
+### **Week 2: JavaScript & OWASP Top 10**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | JavaScript (ES6), DOM Manipulation      | OWASP Top 10: SQLi, XSS Basics          | **Freelance**: Add JS interactivity to sites ($20–$50). |  
+| **Tasks**               | Build a calculator or todo app in JS.   | Solve 3 PortSwigger SQLi/XSS labs.      | Submit a simple XSS bug on a test platform (e.g., [HackerOne](https://hackerone.com/)). |  
+| **Resources**           | [JavaScript.info](https://javascript.info/) | [Web Security Academy Labs](https://portswigger.net/web-security) | [Bugcrowd Crowdcontrol](https://bugcrowd.com/) |  
+
+---
+
+## **Phase 2: Skill Building (Weeks 5–8)**  
+### **Week 5: React & Burp Suite**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | React Components, State Management      | Burp Suite Proxy, Intercepting Requests | **Freelance**: Build React components ($50–$100). |  
+| **Tasks**               | Clone a Twitter/X feed using React.     | Intercept and modify requests in Burp.  | Hunt for misconfigurations in public programs (e.g., open APIs). |  
+| **Resources**           | [Scrimba React](https://scrimba.com/learn/learnreact) | [Burp Suite Tutorial](https://youtu.be/2nZEdw8Y5sM) | [Upwork](https://www.upwork.com/) for React gigs. |  
+
+---
+
+### **Week 6: Node.js & Advanced Recon**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | Node.js, REST APIs                      | Subdomain Enumeration (Sublist3r, Amass)| **Freelance**: Build a REST API ($100–$300). |  
+| **Tasks**               | Create a CRUD API for a blog.           | Find hidden subdomains of a target.     | Submit subdomain takeover bugs (if found).  |  
+| **Resources**           | [The Odin Project](https://theodinproject.com/) | [Bug Bounty Recon Guide](https://github.com/sehno/Bug-bounty/blob/master/bugbounty_recon.md) | [PentesterLab](https://pentesterlab.com/) |  
+
+---
+
+## **Phase 3: Monetization (Weeks 9–12)**  
+### **Week 9: Full-Stack Deployment & Automation**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | Deploy to Heroku/Netlify                | Automate scans (Nuclei, SQLMap)         | **Freelance**: Deploy client apps ($200–$500). |  
+| **Tasks**               | Deploy your blog with a Node.js backend.| Run automated scans on bug bounty targets. | Earn $500+/month freelancing + $200+/month from bounties. |  
+| **Resources**           | [Full Stack Open](https://fullstackopen.com/) | [Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates) | [Toptal](https://www.toptal.com/) for high-paying gigs. |  
+
+---
+
+## **Earning Timeline Summary**  
+| **Month** | **Earning Potential**                  | **Activities**                                                                 |  
+|-----------|----------------------------------------|--------------------------------------------------------------------------------|  
+| **1**     | $50–$200/month                         | Fix HTML/CSS bugs, submit low-risk vulnerabilities.                           |  
+| **2**     | $200–$500/month                        | Build React components, find XSS/SQLi bugs.                                   |  
+| **3**     | $500–$1k+/month                        | Freelance full-stack projects, chain vulnerabilities (e.g., SSRF + IDOR).     |  
+
+---
+
+## **Tools & Resources Cheat Sheet**  
+| **Category**       | **Full-Stack**                                                                 | **Bug Bounty**                                                                |  
+|--------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------|  
+| **Learning**       | [The Odin Project](https://theodinproject.com/), [Full Stack Open](https://fullstackopen.com/) | [PortSwigger Academy](https://portswigger.net/web-security), [Hack The Box](https://hackthebox.com/) |  
+| **Tools**          | VS Code, React, Node.js, MongoDB                                              | Burp Suite, SQLMap, Nuclei, Sublist3r                                        |  
+| **Freelance**      | [Upwork](https://www.upwork.com/), [Fiverr](https://www.fiverr.com/)           | [HackerOne](https://hackerone.com/), [Bugcrowd](https://bugcrowd.com/)        |  
+
+---
+
+**Next Steps**:  
+1. Fork this plan to your GitHub repo.  
+2. Track progress weekly using a tool like Notion or Trello.  
+3. Start applying for gigs/bounties **immediately** (don’t wait until you’re “ready”).  
+
+👉 **Copy this Markdown to your GitHub and start today!**  
+
+
+---
+
+# Weekly Hybrid Learning Plan: Full-Stack + Bug Bounty  
+**Goal**: Earn money while learning by combining web development and security skills.  
+
+---
+
+## **Phase 1: Foundations (Weeks 1–4)**  
+### **Week 1: Web Basics**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | HTML/CSS, Git Basics                    | HTTP Protocol, Cookies, Headers         | **Freelance**: Fix HTML/CSS issues ($15–$30/hour). |  
+| **Tasks**               | Build a static portfolio site.          | Complete PortSwigger’s "HTTP Basics" labs. | Deploy portfolio on GitHub Pages.           |  
+| **Resources**           | [FreeCodeCamp HTML/CSS](https://freecodecamp.org/) | [PortSwigger Academy](https://portswigger.net/web-security) | [Fiverr](https://www.fiverr.com/) for gigs. |  
+
+---
+
+### **Week 2: JavaScript & OWASP Top 10**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | JavaScript (ES6), DOM Manipulation      | OWASP Top 10: SQLi, XSS Basics          | **Freelance**: Add JS interactivity to sites ($20–$50). |  
+| **Tasks**               | Build a calculator or todo app in JS.   | Solve 3 PortSwigger SQLi/XSS labs.      | Submit a simple XSS bug on a test platform (e.g., [HackerOne](https://hackerone.com/)). |  
+| **Resources**           | [JavaScript.info](https://javascript.info/) | [Web Security Academy Labs](https://portswigger.net/web-security) | [Bugcrowd Crowdcontrol](https://bugcrowd.com/) |  
+
+---
+
+## **Phase 2: Skill Building (Weeks 5–8)**  
+### **Week 5: React & Burp Suite**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | React Components, State Management      | Burp Suite Proxy, Intercepting Requests | **Freelance**: Build React components ($50–$100). |  
+| **Tasks**               | Clone a Twitter/X feed using React.     | Intercept and modify requests in Burp.  | Hunt for misconfigurations in public programs (e.g., open APIs). |  
+| **Resources**           | [Scrimba React](https://scrimba.com/learn/learnreact) | [Burp Suite Tutorial](https://youtu.be/2nZEdw8Y5sM) | [Upwork](https://www.upwork.com/) for React gigs. |  
+
+---
+
+### **Week 6: Node.js & Advanced Recon**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | Node.js, REST APIs                      | Subdomain Enumeration (Sublist3r, Amass)| **Freelance**: Build a REST API ($100–$300). |  
+| **Tasks**               | Create a CRUD API for a blog.           | Find hidden subdomains of a target.     | Submit subdomain takeover bugs (if found).  |  
+| **Resources**           | [The Odin Project](https://theodinproject.com/) | [Bug Bounty Recon Guide](https://github.com/sehno/Bug-bounty/blob/master/bugbounty_recon.md) | [PentesterLab](https://pentesterlab.com/) |  
+
+---
+
+## **Phase 3: Monetization (Weeks 9–12)**  
+### **Week 9: Full-Stack Deployment & Automation**  
+| **Topic**              | **Full-Stack**                          | **Bug Bounty**                          | **Earning Opportunity**                    |  
+|-------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|  
+| **Learning Focus**      | Deploy to Heroku/Netlify                | Automate scans (Nuclei, SQLMap)         | **Freelance**: Deploy client apps ($200–$500). |  
+| **Tasks**               | Deploy your blog with a Node.js backend.| Run automated scans on bug bounty targets. | Earn $500+/month freelancing + $200+/month from bounties. |  
+| **Resources**           | [Full Stack Open](https://fullstackopen.com/) | [Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates) | [Toptal](https://www.toptal.com/) for high-paying gigs. |  
+
+---
+
+## **Earning Timeline Summary**  
+| **Month** | **Earning Potential**                  | **Activities**                                                                 |  
+|-----------|----------------------------------------|--------------------------------------------------------------------------------|  
+| **1**     | $50–$200/month                         | Fix HTML/CSS bugs, submit low-risk vulnerabilities.                           |  
+| **2**     | $200–$500/month                        | Build React components, find XSS/SQLi bugs.                                   |  
+| **3**     | $500–$1k+/month                        | Freelance full-stack projects, chain vulnerabilities (e.g., SSRF + IDOR).     |  
+
+---
+
+## **Tools & Resources Cheat Sheet**  
+| **Category**       | **Full-Stack**                                                                 | **Bug Bounty**                                                                |  
+|--------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------|  
+| **Learning**       | [The Odin Project](https://theodinproject.com/), [Full Stack Open](https://fullstackopen.com/) | [PortSwigger Academy](https://portswigger.net/web-security), [Hack The Box](https://hackthebox.com/) |  
+| **Tools**          | VS Code, React, Node.js, MongoDB                                              | Burp Suite, SQLMap, Nuclei, Sublist3r                                        |  
+| **Freelance**      | [Upwork](https://www.upwork.com/), [Fiverr](https://www.fiverr.com/)           | [HackerOne](https://hackerone.com/), [Bugcrowd](https://bugcrowd.com/)        |  
+
+---
+
+**Next Steps**:  
+1. Fork this plan to your GitHub repo.  
+2. Track progress weekly using a tool like Notion or Trello.  
+3. Start applying for gigs/bounties **immediately** (don’t wait until you’re “ready”).  
+
+👉 **Copy this Markdown to your GitHub and start today!**  
 
 ```markdown
 ### Progress Checklist  

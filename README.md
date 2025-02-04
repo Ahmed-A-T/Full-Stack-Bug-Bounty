@@ -233,7 +233,9 @@
 
 👉 **Copy this Markdown to your GitHub and start today!**  
 
-```markdown
+---
+
+
 ### Progress Checklist  
 - [ ] Week 1: Static portfolio site deployed.  
 - [ ] Week 4: First React Todo app built.  

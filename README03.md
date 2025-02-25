@@ -708,98 +708,49 @@ Here’s a **revised hybrid roadmap table** with an **"Earning Opportunities" co
 
 ___
 
-### **Hybrid Roadmap: Web Development + Bug Bounty Hunting**
+### Hybrid Roadmap: Web Development + Bug Bounty Hunting  
+**Earning Opportunities Added for Each Stage**  
 
-**Earning Opportunities Added for Each Stage**
+| **Week** | **Focus Area**               | **Topics to Cover**                                                                 | **Earning Opportunities**                                                                                                           | **Daily Time** | **Weekly Time** | **Key Resources**                                                                 |
+|----------|-------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------|-----------------------------------------------------------------------------------|
+| **1**    | **Web Dev Basics + Security** | **Web Dev:** HTML/CSS, Responsive Design.<br>**Bug Bounty:** OWASP Top 10 (XSS, SQLi). | - **Web Dev:** Fix HTML/CSS issues on Fiverr ($10–20/task).<br>- **Bug Bounty:** Report basic XSS/SQLi on [HackenProof](https://hackenproof.com). | 4h (3h dev, 1h security) | 20h (15h dev, 5h security) | [FreeCodeCamp](https://freecodecamp.org), [PortSwigger Academy](https://portswigger.net/web-security) |
+| **2**    | **JavaScript + Recon**        | **Web Dev:** JS DOM Manipulation, APIs.<br>**Bug Bounty:** Burp Suite, Subdomain Enum. | - **Web Dev:** Build simple JS plugins for clients ($30–50).<br>- **Bug Bounty:** Hunt subdomains for [OpenBugBounty](https://openbugbounty.org). | 4h (3h dev, 1h security) | 20h (15h dev, 5h security) | [JavaScript.info](https://javascript.info), [Sublist3r](https://github.com/aboul3la/Sublist3r) |
+| **3**    | **React + Labs**              | **Web Dev:** React Components, Todo App.<br>**Bug Bounty:** XSS/SQLi Labs.           | - **Web Dev:** Sell React components on [CodeCanyon](https://codecanyon.net) ($50–200).<br>- **Bug Bounty:** Submit XSS reports to [Bugcrowd](https://bugcrowd.com). | 5h (4h dev, 1h security) | 25h (20h dev, 5h security) | [React Docs](https://react.dev), [PortSwigger Labs](https://portswigger.net/web-security) |
+| **4**    | **Freelancing + Hunting**     | **Web Dev:** Portfolio, Upwork/Fiverr.<br>**Bug Bounty:** Hunt VDPs.                 | - **Web Dev:** Land 1–2 small gigs ($300 landing page).<br>- **Bug Bounty:** Earn $50–200 on [HackerOne](https://hackerone.com). | 6h (4h dev, 2h security) | 30h (20h dev, 10h security) | [Flowbite Templates](https://flowbite.com), [OpenBugBounty](https://openbugbounty.org) |
+| **5**    | **Backend + Automation**      | **Web Dev:** Node.js/Express.<br>**Bug Bounty:** Nuclei/Subfinder.                   | - **Web Dev:** Build APIs for startups ($500–1k).<br>- **Bug Bounty:** Sell scripts on [Gumroad](https://gumroad.com). | 5h (3h dev, 2h security) | 25h (15h dev, 10h security) | [The Odin Project](https://theodinproject.com), [Nuclei Docs](https://nuclei.projectdiscovery.io) |
+| **6**    | **Full-Stack + Reporting**    | **Web Dev:** Full-Stack App.<br>**Bug Bounty:** Write Reports.                       | - **Web Dev:** Sell templates on [Envato](https://envato.com) ($100–300).<br>- **Bug Bounty:** Earn $500+ in private programs. | 6h (4h dev, 2h security) | 30h (20h dev, 10h security) | [FullStackOpen](https://fullstackopen.com), [HackerOne Hacktivity](https://hackerone.com/hacktivity) |
+| **7-8**  | **Scale Dev + CTFs**          | **Web Dev:** Upsell Clients.<br>**Bug Bounty:** CTFs.                               | - **Web Dev:** Charge $50+/hour for maintenance.<br>- **Bug Bounty:** Win CTF prizes on [TryHackMe](https://tryhackme.com). | 6h (4h dev, 2h security) | 30h (20h dev, 10h security) | [Upwork](https://upwork.com), [TryHackMe](https://tryhackme.com) |
+| **9-12** | **Advanced Security + SaaS**  | **Web Dev:** SaaS Templates.<br>**Bug Bounty:** Private Programs.                   | - **Web Dev:** Earn $1k+/month selling templates.<br>- **Bug Bounty:** Earn $1k–10k for critical bugs. | 6h (3h dev, 3h security) | 30h (15h dev, 15h security) | [Envato](https://envato.com), [Bugcrowd University](https://bugcrowd.com/resources) |
 
-| **Week** | **Focus Area** | **Topics to Cover** | **Earning Opportunities** | **Daily Time** | **Weekly Time** | **Key Resources** |
-| --- | --- | --- | --- | --- | --- | --- |
-| **1** | **Web Dev Basics + Security** | **Web Dev:** HTML/CSS, Responsive Design.  
-**Bug Bounty:** OWASP Top 10 (XSS, SQLi). | \- **Web Dev:** Fix HTML/CSS issues on Fiverr ($10–20/task).  
-\- **Bug Bounty:** Report basic XSS/SQLi on [HackenProof](https://hackenproof.com) (small bounties). | 4h (3h dev, 1h security) | 20h (15h dev, 5h security) | [FreeCodeCamp](https://freecodecamp.org), [PortSwigger Academy](https://portswigger.net/web-security) |
-| **2** | **JavaScript + Recon** | **Web Dev:** JS DOM Manipulation, APIs.  
-**Bug Bounty:** Burp Suite, Subdomain Enum. | \- **Web Dev:** Build simple JS plugins (e.g., calculators) for clients ($30–50).  
-\- **Bug Bounty:** Hunt subdomains for [OpenBugBounty](https://openbugbounty.org) (no payout, but reputation). | 4h (3h dev, 1h security) | 20h (15h dev, 5h security) | [JavaScript.info](https://javascript.info), [Sublist3r](https://github.com/aboul3la/Sublist3r) |
-| **3** | **React + Labs** | **Web Dev:** React Components, Todo App.  
-**Bug Bounty:** XSS/SQLi Labs. | \- **Web Dev:** Sell React components on [CodeCanyon](https://codecanyon.net) ($50–200).  
-\- **Bug Bounty:** Submit XSS reports to [Bugcrowd](https://bugcrowd.com) (VDPs). | 5h (4h dev, 1h security) | 25h (20h dev, 5h security) | [React Docs](https://react.dev), [PortSwigger Labs](https://portswigger.net/web-security) |
-| **4** | **Freelancing + Hunting** | **Web Dev:** Portfolio, Upwork/Fiverr.  
-**Bug Bounty:** Hunt VDPs. | \- **Web Dev:** Land 1–2 small gigs (e.g., 300landingpage).<br\>−∗∗BugBounty:∗∗Earn300 landing page).<br>- \*\*Bug Bounty:\*\* Earn 300landingpage).<br\>−∗∗BugBounty:∗∗Earn50–200 for valid reports on [HackerOne](https://hackerone.com). | 6h (4h dev, 2h security) | 30h (20h dev, 10h security) | [Flowbite Templates](https://flowbite.com), [OpenBugBounty](https://openbugbounty.org) |
-| **5** | **Backend + Automation** | **Web Dev:** Node.js/Express.  
-**Bug Bounty:** Nuclei/Subfinder. | \- **Web Dev:** Build APIs for startups ($500–1k).  
-\- **Bug Bounty:** Sell recon automation scripts on [Gumroad](https://gumroad.com). | 5h (3h dev, 2h security) | 25h (15h dev, 10h security) | [The Odin Project](https://theodinproject.com), [Nuclei Docs](https://nuclei.projectdiscovery.io) |
-| **6** | **Full-Stack + Reporting** | **Web Dev:** Full-Stack App.  
-**Bug Bounty:** Write Reports. | \- **Web Dev:** Sell full-stack templates on [Envato](https://envato.com) (100–300).<br\>−∗∗BugBounty:∗∗Earn100–300).<br>- \*\*Bug Bounty:\*\* Earn 100–300).<br\>−∗∗BugBounty:∗∗Earn500+ for critical bugs in private programs. | 6h (4h dev, 2h security) | 30h (20h dev, 10h security) | [FullStackOpen](https://fullstackopen.com), [HackerOne Hacktivity](https://hackerone.com/hacktivity) |
-| **7-8** | **Scale Dev + CTFs** | **Web Dev:** Upsell Clients.  
-**Bug Bounty:** CTFs. | \- **Web Dev:** Charge $50+/hour for maintenance contracts.  
-\- **Bug Bounty:** Win CTF prizes (e.g., [TryHackMe](https://tryhackme.com)). | 6h (4h dev, 2h security) | 30h (20h dev, 10h security) | [Upwork](https://upwork.com), [TryHackMe](https://tryhackme.com) |
-| **9-12** | **Advanced Security + SaaS** | **Web Dev:** SaaS Templates.  
-**Bug Bounty:** Private Programs. | \- **Web Dev:** Earn 1k+/monthsellingSaaStemplates.<br\>−∗∗BugBounty:∗∗Earn1k+/month selling SaaS templates.<br>- \*\*Bug Bounty:\*\* Earn 1k+/monthsellingSaaStemplates.<br\>−∗∗BugBounty:∗∗Earn1k–10k for critical vulnerabilities (e.g., SSRF, RCE). | 6h (3h dev, 3h security) | 30h (15h dev, 15h security) | [Envato](https://envato.com), [Bugcrowd University](https://bugcrowd.com/resources) |
+---
 
-___
+### Earning Opportunities Breakdown  
+**Web Development:**  
+1. **Freelancing:** Start with small gigs ($300–500), then scale to $1k+/project.  
+2. **Templates/Themes:** Sell on CodeCanyon, Envato, or Gumroad ($50–300 each).  
+3. **Maintenance Contracts:** Charge $50–100/month for updates/hosting.  
+4. **APIs/SaaS:** Build custom tools for businesses ($1k–5k).  
 
-### **Earning Opportunities Breakdown**
+**Bug Bounty Hunting:**  
+1. **VDPs (Vulnerability Disclosure):** No payout, but builds credibility.  
+2. **Public Programs:** Earn $50–2k for XSS, SSRF, or misconfigurations.  
+3. **Private Programs:** High rewards ($1k–10k+) for critical vulnerabilities.  
+4. **CTFs/Prizes:** Compete for cash rewards on TryHackMe or HackTheBox.  
 
-**Web Development:**
+**Hybrid Opportunities:**  
+- **Security Audits:** Offer "secure web development" services ($500–2k).  
+- **Content Creation:** Make tutorials on YouTube/Medium (affiliate income).  
+- **Automation Tools:** Sell scripts/tools to other hackers (e.g., Nuclei templates).  
 
-1.  **Freelancing:** Start with small gigs (300–500),thenscaleto300–500), then scale to 300–500),thenscaleto1k+/project.
-    
-2.  **Templates/Themes:** Sell on CodeCanyon, Envato, or Gumroad ($50–300 each).
-    
-3.  **Maintenance Contracts:** Charge $50–100/month for updates/hosting.
-    
-4.  **APIs/SaaS:** Build custom tools for businesses ($1k–5k).
-    
+---
 
-**Bug Bounty Hunting:**
+### Final Recommendation  
+**Stick to the Hybrid Model:**  
+1. **Phase 1 (Weeks 1–4):** Focus 80% on **web dev** to earn $500–1k. Use bug bounties for practice.  
+2. **Phase 2 (Weeks 5–8):** Split 60% dev / 40% bounties. Target $1.5k (dev) + $200–500 (bounties).  
+3. **Phase 3 (Weeks 9–12):** Transition to 50/50. Aim for $2k (dev) + $1k+ (bounties).  
 
-1.  **VDPs (Vulnerability Disclosure):** No payout, but builds credibility.
-    
-2.  **Public Programs:** Earn $50–2k for XSS, SSRF, or misconfigurations.
-    
-3.  **Private Programs:** High rewards ($1k–10k+) for critical vulnerabilities.
-    
-4.  **CTFs/Prizes:** Compete for cash rewards on TryHackMe or HackTheBox.
-    
-
-**Hybrid Opportunities:**
-
--   **Security Audits:** Offer "secure web development" services ($500–2k).
-    
--   **Content Creation:** Make tutorials on YouTube/Medium (affiliate income).
-    
--   **Automation Tools:** Sell scripts/tools to other hackers (e.g., Nuclei templates).
-    
-
-___
-
-### **Final Recommendation**
-
-**Stick to the Hybrid Model:**
-
-1.  **Phase 1 (Weeks 1–4):** Focus 80% on **web dev** to earn $500–1k. Use bug bounties for practice.
-    
-2.  **Phase 2 (Weeks 5–8):** Split 60% dev / 40% bounties. Target 1.5k(dev)+1.5k (dev) + 1.5k(dev)+200–500 (bounties).
-    
-3.  **Phase 3 (Weeks 9–12):** Transition to 50/50. Aim for 2k(dev)+2k (dev) + 2k(dev)+1k+ (bounties).
-    
-
-**Why This Works:**
-
--   **Low Risk:** Web dev funds your security learning.
-    
--   **Skill Synergy:** Secure coding practices make you a better developer.
-    
--   **Scalability:** Bug bounties can eventually replace freelancing income.
-    
-
-**Key Advice:**
-
--   **Track Everything:** Use spreadsheets for clients, bounties, and time.
-    
--   **Reinvest Earnings:** Buy tools (Burp Pro, Nuclei) to boost bug hunting efficiency.
-    
--   **Network Aggressively:** Join freelancer/bug bounty communities for referrals.
-    
-
-Let me know if you want to refine this further! 💰🚀
+**Key Advice:**  
+- **Track Everything:** Use spreadsheets for clients, bounties, and time.  
+- **Reinvest Earnings:** Buy tools (Burp Pro, Nuclei) to boost efficiency.  
+- **Network Aggressively:** Join freelancer/bug bounty communities for referrals.  
